@@ -35,7 +35,7 @@ defs = Definitions(
         "snowflake": SnowflakeResource(
             account="uoxcthr-vy59918",
             user="jayesh",
-            password="MY_PASSWORD", # <--- Apna asali password yahan dalo
+            password="My_pass", # <--- Apna asali password yahan dalo
             warehouse="CRYPTO_WH",
             database="CRYPTO_DB",
             schema="MAIN",

@@ -10,7 +10,7 @@ st.title("🚀 Crypto Market Sentiment (Snowflake + dbt)")
 def get_data():
     conn = snowflake.connector.connect(
         user='jayesh',
-        password='@Jayesh19971997', # <--- Apna password dalo
+        password='My-pass', # <--- Apna password dalo
         account='uoxcthr-vy59918',
         warehouse='CRYPTO_WH',
         database='CRYPTO_DB',
