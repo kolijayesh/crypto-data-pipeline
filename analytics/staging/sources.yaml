@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: main
+    tables:
+      - name: raw_prices # Wahi table jo tumne Python script mein banayi thi

@@ -1,0 +1,6 @@
+de_env/
+__pycache__/
+*.duckdb
+target/
+logs/
+.DS_Store

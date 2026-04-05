@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: main  # <--- Yahan 'public' ki jagah 'main' likho
+    tables:
+      - name: raw_prices
